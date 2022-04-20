@@ -80,9 +80,9 @@ header {
 }
 .nav__list{
     display:flex;
-    width:40%;
-    justify-content: space-around;
-    /* max-width:600px */
+}
+.nav__item{
+    margin-right: 1em;
 }
 
 .nav__link {

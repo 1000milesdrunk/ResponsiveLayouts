@@ -5,3 +5,26 @@ body{
     box-sizing: border-box;
     font-family: 'Roboto',sans-serif;
 }
+.container{
+    width:80%;
+    margin:0 auto;
+    padding:1em;
+}
+.header{
+    background-color: #23424A;
+    color:white;
+}
+.header_content{
+    width:60%;
+    padding:2em;
+}
+.header_content a{
+    display:inline-block;
+    padding:0.7em 2.7em;
+    text-decoration: none;
+    text-transform: uppercase;
+    color:#23424A;
+    font-weight: 900;
+    background-color: #38CFD9;
+    border-radius: 20px;
+}

@@ -61,12 +61,12 @@ h1 {
     color: #FFF;
 }
 
-.hero__text { 
-    width: 62%;
+.hero__text{ 
+    width: 60%;
 }
 
 .hero__img {
-    width: 32%;
+    width: 30%;
     align-self: flex-start;
 }
 
@@ -88,4 +88,26 @@ h1 {
 .btn:hover,
 .btn:focus {
     opacity: .75; 
+}
+
+.main{
+    display:flex;
+    justify-content: space-between;
+    /* margin:2em 0; */
+}
+.content__one{
+    width:60%;
+    padding:2em 2.5em;
+    
+}
+.content__one h2{
+    color:#136C72;
+}
+.content__two{
+    width:30%;
+    background-color: #136C72;
+    color:white;
+    margin: 2em 0;
+    padding:1em;
+    text-align: center;
 }

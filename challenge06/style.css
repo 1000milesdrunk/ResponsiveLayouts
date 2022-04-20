@@ -78,6 +78,12 @@ header {
     padding: 0;
     list-style: none;
 }
+.nav__list{
+    display:flex;
+    width:40%;
+    justify-content: space-around;
+    /* max-width:600px */
+}
 
 .nav__link {
     color: #fff;

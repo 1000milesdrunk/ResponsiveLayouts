@@ -32,7 +32,6 @@ body{
 }
 .main{
     display:flex;
-    /* width:100%; */
     padding:1em;
     margin:0 auto;
     text-align: center;
@@ -41,7 +40,7 @@ body{
     width:100%;
 }
 .content + .content{
-    /* margin-left: 0.7em; */
+    margin-left: 0.7em;
 }
 .main .content h2{
     color:#87629A;

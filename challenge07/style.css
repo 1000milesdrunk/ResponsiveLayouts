@@ -98,7 +98,6 @@ img{
     .header,.main{
         display: block;
         padding: 2em;
-        /* width:80%; */
     }
     .image{
         display: inline-block;

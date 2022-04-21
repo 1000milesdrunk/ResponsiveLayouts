@@ -94,10 +94,10 @@ img{
 
 }
 
-@media (max-width:500px) {
+@media (max-width:600px) {
     .header,.main{
         display: block;
-        padding: 0;
+        padding: 2em;
         /* width:80%; */
     }
     .image{
